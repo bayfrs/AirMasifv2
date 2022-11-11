@@ -36,8 +36,8 @@ Apk error fix 🥰
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
 </div>
   <div class="column">
-    <img src="https://github.com/alvinbaby/AIRAVAT-PRO/blob/main/Img/1.jpg" alt="AIRAVAT-PRO" style="width:100%">
-   <img src="https://github.com/alvinbaby/AIRAVAT-PRO/blob/main/Img/2.jpg" alt="AIRAVAT-PRO" style="width:100%">
+    <img src="https://raw.githubusercontent.com/bayfrs/AirMasifv2/master/Img/Screenshot_20221111-121214.png" alt="AIRAVAT-PRO" style="width:100%">
+   <img src="https://raw.githubusercontent.com/bayfrs/AirMasifv2/master/Img/Screenshot_20221111-121133.png" alt="AIRAVAT-PRO" style="width:100%">
   </div>
   </div>
 
